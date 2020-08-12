@@ -10,6 +10,10 @@ This is developer friendly company and contributed awesome collection of technic
 <br> [Github repo](https://github.com/mtdvio/every-programmer-should-know)
 <br> If your project is going live or some module is going into production don't forget to go throught [this checklist](https://github.com/mtdvio/going-to-production) created by MTDV.
 
+## Hack with Github
+An Open Source Hacking Tools database. You will get awesome tools and documents for developers and security experts.
+[Github profile](https://github.com/Hack-with-Github)
+
 ## Remote Job
 - If you are in search of remote jobs and want to aply in a company but yu dont know where, so [here is the list](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview#gid=1279011369) of 900+ companies which are remote friendly. created by [REMOTIVE](https://remotive.io/)
 
