@@ -29,6 +29,7 @@ List of **podcasts** which are helpful for software engineers/programmers.
 ## William Fiset
 **Algorithms** and data structures are fundamental to efficient code and good software design. Creating and designing excellent algorithms is required for being an exemplary programmer. This repository's goal is to demonstrate how to correctly implement common data structures and algorithms in the simplest and most elegant ways.
 <br>[Github repo](https://github.com/williamfiset/Algorithms)
+<br>DataStructures [Github repo](https://github.com/williamfiset/data-structures)
 
 ## Remote Job
 - If you are in search of **remote jobs** and want to aply in a company but you dont know where, so [here is the list](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview#gid=1279011369) of 900+ companies which are remote friendly. created by [REMOTIVE](https://remotive.io/)
