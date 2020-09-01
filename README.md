@@ -57,3 +57,4 @@ A curated list of **data science blog**
 - If you are in search of **remote jobs** and want to aply in a company but you dont know where, so [here is the list](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview#gid=1279011369) of 900+ companies which are remote friendly. created by [REMOTIVE](https://remotive.io/)
 
 - [RemoteOk](https://remoteok.io/) is also one of the best site to find your next remote job
+- [List of companies](https://github.com/remoteintech/remote-jobs) A list of semi to fully remote-friendly companies in tech.
