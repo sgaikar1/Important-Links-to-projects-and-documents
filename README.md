@@ -58,3 +58,6 @@ A curated list of **data science blog**
 
 - [RemoteOk](https://remoteok.io/) is also one of the best site to find your next remote job
 - [List of companies](https://github.com/remoteintech/remote-jobs) A list of semi to fully remote-friendly companies in tech.
+- [No Resume, Give test and go for interview](https://flatworld.co/)  a no resume company - the first step is to take a 12-minute coding test to see if you can progress to the next round or not. We are also a no-ghosting company, you will always hear about your acceptance or rejection via email.
+The salary range for jobs is different as per roles - but definitely between USD 50,000 - USD 120,000 per year
+
