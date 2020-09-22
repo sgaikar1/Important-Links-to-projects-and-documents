@@ -60,4 +60,4 @@ A curated list of **data science blog**
 - [List of companies](https://github.com/remoteintech/remote-jobs) A list of semi to fully remote-friendly companies in tech.
 - [No Resume, Give test and go for interview](https://flatworld.co/)  a no resume company - the first step is to take a 12-minute coding test to see if you can progress to the next round or not. We are also a no-ghosting company, you will always hear about your acceptance or rejection via email.
 The salary range for jobs is different as per roles - but definitely between USD 50,000 - USD 120,000 per year
-
+-[Toptal](https://beta.remoteindian.com/guides/toptal) This is the interview with Avi in remote indian slack grooup, where he talked about Toptal hiring process, which is basically  a global remote company that provides a freelancing platform that connects businesses with software engineers, designers, and business consultants.
