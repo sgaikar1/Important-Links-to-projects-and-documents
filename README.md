@@ -64,3 +64,6 @@ The salary range for jobs is different as per roles - but definitely between USD
 - [Toptal](https://beta.remoteindian.com/guides/toptal) This is the interview with Avi in remote indian slack grooup, where he talked about Toptal hiring process, which is basically  a global remote company that provides a freelancing platform that connects businesses with software engineers, designers, and business consultants.
 
 - [remotejob.page](https://www.remotejob.page/) They curate remote jobs from few of the best sources on the internet and keep them only for a week, so that their users get only the fresh jobs. At any moment of time you get approximately 550 fresh [less than 7 days old] live remote jobs.
+
+
+- [Nodesk.co](https://nodesk.co/) NoDesk informs about remote work and connects the global workforce. Companies of every size, from new startups to the largest distributed companies, use us to grow their remote teams.
