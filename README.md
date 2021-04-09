@@ -69,3 +69,5 @@ The salary range for jobs is different as per roles - but definitely between USD
 - [Nodesk.co](https://nodesk.co/) NoDesk informs about remote work and connects the global workforce. Companies of every size, from new startups to the largest distributed companies, use us to grow their remote teams.
 
 - [Works-hub.com](https://www.works-hub.com/jobs/)Discover the best software opportunities with WorksHub.
+
+- [outteam.nurturelabs.co](https://outteam.nurturelabs.co/)Outteam by NurtureLabs || Remote Dev Community
