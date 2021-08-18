@@ -53,6 +53,9 @@ A curated list of **data science blog**
 **Deep Learning** Tutorial notes and code. See the wiki for more info.
 <br>[Github repo](https://github.com/lisa-lab/DeepLearningTutorials)
 
+## Tax calculation for freelancers
+- If you are unsure about how tax is calculated for freelancers who works for foreign companies do read this [article](https://www.thegalacticadvisors.com/post/comprehensive-guide-on-tax-for-freelancers)
+
 ## Remote Job
 - If you are in search of **remote jobs** and want to aply in a company but you dont know where, so [here is the list](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview#gid=1279011369) of 900+ companies which are remote friendly. created by [REMOTIVE](https://remotive.io/)
 
